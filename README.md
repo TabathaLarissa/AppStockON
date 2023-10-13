@@ -1,2 +1,2 @@
-# AppStockON-IA
+# AppStockON
 
