@@ -1,10 +1,10 @@
-Unnamed: 0;Produto_ID;Nome_Produto2;Custo_Unitario;Classificacao ABC;Quantidade_Estoque;Estoque_Minimo;Criticidade_Num;Criticidade;Lead_Time_Dias;Sugestao_Compra
-0;1;Arroz;43;B;60;458,3276385;3;Média;9;252,6586171
-1;2;Feijao;33;A;10;5184,614243;6;Alta;11;2402,081952
-2;3;Acucar;19;A;5;4859,254254;5;Alta;10,5;1965,069699
-3;4;Sal;47;B;43;489,7132667;3;Média;12;269,2778468
-4;5;Oleo;12;C;5;391,5238093;2;Baixa;8;315,7071133
-5;6;Macarrao;25;A;67;8195,275253;5;Alta;12,5;2766,682666
-6;7;Cafe;43;A;61;2804,961673;5;Alta;8;1233,353114
-7;8;Leite;23;C;71;1513,474278;1;Baixa;10;663,9279079
-8;9;Ovos;27;A;69;3457,756551;5;Alta;10,5;1712,841004
+Unnamed: 0,Produto_ID,Nome_Produto2,Custo_Unitario,Classificacao ABC,Quantidade_Estoque,Estoque_Minimo,Criticidade_Num,Criticidade,Lead_Time_Dias,Sugestao_Compra
+0,1,Arroz,43,B,60,458.3276385,3,MÃ©dia,9.0,252.6586171
+1,2,Feijao,33,A,10,5184.614243,6,Alta,11.0,2402.081952
+2,3,Acucar,19,A,5,4859.254254,5,Alta,10.5,1965.069699
+3,4,Sal,47,B,43,489.7132667,3,MÃ©dia,12.0,269.2778468
+4,5,Oleo,12,C,5,391.5238093,2,Baixa,8.0,315.7071133
+5,6,Macarrao,25,A,67,8195.275253,5,Alta,12.5,2766.682666
+6,7,Cafe,43,A,61,2804.961673,5,Alta,8.0,1233.353114
+7,8,Leite,23,C,71,1513.474278,1,Baixa,10.0,663.9279079
+8,9,Ovos,27,A,69,3457.756551,5,Alta,10.5,1712.841004
