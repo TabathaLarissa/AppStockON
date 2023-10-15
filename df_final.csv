@@ -1,4 +1,4 @@
-Unnamed: 0;Produto_ID;Nome_Produto2;Custo_Unitario;Classificação ABC;Quantidade_Estoque;Estoque_Minimo;Criticidade_Num;Criticidade;Lead_Time_Dias;Sugestao_Compra
+Unnamed: 0;Produto_ID;Nome_Produto2;Custo_Unitario;Classificacao ABC;Quantidade_Estoque;Estoque_Minimo;Criticidade_Num;Criticidade;Lead_Time_Dias;Sugestao_Compra
 0;1;Arroz;43;B;60;458,3276385;3;M�dia;9;252,6586171
 1;2;Feijao;33;A;10;5184,614243;6;Alta;11;2402,081952
 2;3;Acucar;19;A;5;4859,254254;5;Alta;10,5;1965,069699
