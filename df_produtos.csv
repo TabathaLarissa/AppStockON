@@ -1,11 +1,10 @@
-Unnamed: 0,Produto_ID,Nome_Produto,Nome_Produto2,Custo_Unitario
-0,1,Produto_1,Arroz,43
-1,2,Produto_2,Feijao,33
-2,3,Produto_3,Acucar,19
-3,4,Produto_4,Sal,47
-4,5,Produto_5,Oleo,12
-5,6,Produto_6,Macarrao,25
-6,7,Produto_7,Cafe,43
-7,8,Produto_8,Leite,23
-8,9,Produto_9,Ovos,27
-9,10,Produto_10,Farinha,15
+Unnamed: 0,Produto_ID,Nome_Produto,Nome_Produto2,SKU,Setor,Classificacao ABC,Custo_Unitario
+0,1,Produto_1,Notebook,9876543210,Eletrônicos,B,3784.437183
+1,2,Produto_2,Iphone X,1334567890,Eletrônicos,A,6323.451907
+2,3,Produto_3,Smartphone MA9,1234567890,Eletrônicos,A,6186.023327
+3,4,Produto_4,Tenis,4321098765,Esporte e lazer,B,3613.876364
+4,5,Produto_5,Óculos de sol,3210987654,Saúde e bem-estar,C,1375.502408
+5,6,Produto_6,TV 4K,4321098765,Eletrônicos,A,6785.981089
+6,7,Produto_7,Geladeira Inox,7654321098,Eletrônicos,A,5726.869756
+7,8,Produto_8,Protetor solar,4321098765,Saúde e bem-estar,C,2149.273077
+8,9,Produto_9,Computador Gamer,6543210987,Eletrônicos,A,6906.507157
