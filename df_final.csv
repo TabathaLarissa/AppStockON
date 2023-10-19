@@ -1,10 +1,10 @@
 Unnamed: 0,Produto_ID,SKU,Nome_Produto2,Setor,Custo_Unitario,Classificacao ABC,Quantidade_Estoque_Atual,Estoque_Minimo,Criticidade_Num,Criticidade,Lead_Time_Dias,Sugestao_Compra,Venda_ult_30d,Venda_ult_60d,Venda_ult_90d,Fornecedor 1,Lead_time_F1,Fornecedor 2,Lead_time_F2,Ruptura
-0,1,9876543210,Notebook,Eletronicos,3784,B,60,458,3,Media,9.0,252,1392,2525,3565,Dell,25,HP,17.0,Nao
-1,2,1334567890,Iphone X,Eletronicos,6323,A,10,5184,6,Alta,11.0,2402,4202,7659,10847,Apple,60,,,Sim
-2,3,1234567890,Smartphone MA9,Eletronicos,6186,A,5,4859,5,Alta,10.5,1965,4187,7760,11059,Samsung,60,,,Sim
-3,4,4321098765,Tenis,Esporte e lazer,3613,B,43,489,3,Media,12.0,269,1294,2345,3308,Nike,10,Adidas,15.0,Nao
-4,5,3210987654,Oculos de Sol,Saude e bem-estar,1375,C,5,391,2,Baixa,8.0,315,1491,2696,3785,Ray-Ban,45,Oakley,55.0,Nao
-5,6,4321098765,TV 4K,Eletronicos,6785,A,67,8195,5,Alta,12.5,2766,5039,9292,13222,Samsung,15,LG,22.0,Sim
-6,7,7654321098,Geladeira Inox,Eletronicos,5726,A,61,2804,5,Alta,8.0,1233,3915,7098,10032,Brastemp,40,Electrolux,56.0,Nao
-7,8,4321098765,Protetor solar,Saude e bem-estar,2149,C,71,1513,1,Baixa,10.0,663,2443,4457,6320,La Roche-Posay,72,Neutrogena,60.0,Nao
-8,9,6543210987,Computador Gamer,Eletronicos,6906,A,69,3457,5,Alta,10.5,1712,3664,6631,9350,Acer,20,Dell,27.0,Nao
+0,1,9876543210,Notebook,Eletronicos,3784,B,808,458,3,Media,9.0,0,1392,2525,3565,Dell,25,HP,17.0,Nao
+1,2,1334567890,Iphone X,Eletronicos,6323,A,3630,5184,6,Alta,11.0,1554,4202,7659,10847,Apple,60,,,Sim
+2,3,1234567890,Smartphone MA9,Eletronicos,6186,A,4896,4859,5,Alta,10.5,0,4187,7760,11059,Samsung,60,,,Sim
+3,4,4321098765,Tenis,Esporte e lazer,3613,B,113,489,3,Media,12.0,376,1294,2345,3308,Nike,10,Adidas,15.0,Nao
+4,5,3210987654,Oculos de Sol,Saude e bem-estar,1375,C,808,391,2,Baixa,8.0,0,1491,2696,3785,Ray-Ban,45,Oakley,55.0,Nao
+5,6,4321098765,TV 4K,Eletronicos,6785,A,6443,8195,5,Alta,12.5,1752,5039,9292,13222,Samsung,15,LG,22.0,Sim
+6,7,7654321098,Geladeira Inox,Eletronicos,5726,A,3739,2804,5,Alta,8.0,0,3915,7098,10032,Brastemp,40,Electrolux,56.0,Nao
+7,8,4321098765,Protetor solar,Saude e bem-estar,2149,C,825,1513,1,Baixa,10.0,688,2443,4457,6320,La Roche-Posay,72,Neutrogena,60.0,Nao
+8,9,6543210987,Computador Gamer,Eletronicos,6906,A,4366,3457,5,Alta,10.5,0,3664,6631,9350,Acer,20,Dell,27.0,Nao
